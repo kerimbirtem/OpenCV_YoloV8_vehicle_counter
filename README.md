@@ -7,15 +7,15 @@ Version 1 displays the total number of vehicles passing through the road in the 
 
 ### Outputs
 #### v1_outputs:
-- ![Output Tracker 11](output_tracker_11.gif)
-- ![Output Tracker 12](output_tracker_12.gif)
-- ![Output Tracker 21](output_tracker_21.gif)
-- ![Output Tracker 22](output_tracker_22.gif)
+- ![Output Tracker 11](output_tracker11.gif)
+- ![Output Tracker 12](output_tracker12.gif)
+- ![Output Tracker 21](output_tracker21.gif)
+- ![Output Tracker 22](output_tracker22.gif)
 
 ## Version 2
 Version 2 creates 3 different areas for 3 different roads and counts the total number of vehicles passing through these areas.
 
 ### Outputs
 #### v2_outputs:
-- ![Output Tracker with Area 11](output_tracker_with_area_11.gif)
-- ![Output Tracker with Area 12](output_tracker_with_area_12.gif)
+- ![Output Tracker with Area 11](output_tracker_with_area11.gif)
+- ![Output Tracker with Area 12](output_tracker_with_area12.gif)
