@@ -3,7 +3,7 @@
 This project aims to count vehicles passing through a road. It processes traffic camera footage taken from YouTube using the OpenCV library and a trained YOLOV8 model to count the vehicles passing through the road in the video.
 
 You can access the source video from this [YouTube Link](https://www.youtube.com/watch?v=MNn9qKG2UFI&list=PLcQZGj9lFR7y5WikozDSrdk6UCtAnM9mB).
-The project utilizes the 'yolov8n' model for vehicle detection. Additionally, it employs the `<botsort.yaml>` tracker type for tracking purposes.
+The project utilizes the `yolov8n` model for vehicle detection. Additionally, it employs the `<botsort.yaml>` tracker type for tracking purposes.
 
 The project has 2 different versions.
 
